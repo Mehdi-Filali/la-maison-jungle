@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/la-maison-jungle/static/css/main.5bafde77.chunk.css",
+    "main.js": "/la-maison-jungle/static/js/main.124714c4.chunk.js",
+    "main.js.map": "/la-maison-jungle/static/js/main.124714c4.chunk.js.map",
+    "runtime-main.js": "/la-maison-jungle/static/js/runtime-main.fbfaa28a.js",
+    "runtime-main.js.map": "/la-maison-jungle/static/js/runtime-main.fbfaa28a.js.map",
+    "static/js/2.da38659e.chunk.js": "/la-maison-jungle/static/js/2.da38659e.chunk.js",
+    "static/js/2.da38659e.chunk.js.map": "/la-maison-jungle/static/js/2.da38659e.chunk.js.map",
+    "static/js/3.f327f159.chunk.js": "/la-maison-jungle/static/js/3.f327f159.chunk.js",
+    "static/js/3.f327f159.chunk.js.map": "/la-maison-jungle/static/js/3.f327f159.chunk.js.map",
+    "index.html": "/la-maison-jungle/index.html",
+    "static/css/main.5bafde77.chunk.css.map": "/la-maison-jungle/static/css/main.5bafde77.chunk.css.map",
+    "static/js/2.da38659e.chunk.js.LICENSE.txt": "/la-maison-jungle/static/js/2.da38659e.chunk.js.LICENSE.txt",
+    "static/media/basil.be00474e.jpeg": "/la-maison-jungle/static/media/basil.be00474e.jpeg",
+    "static/media/cactus.a71c2062.jpeg": "/la-maison-jungle/static/media/cactus.a71c2062.jpeg",
+    "static/media/calathea.455c33e2.jpeg": "/la-maison-jungle/static/media/calathea.455c33e2.jpeg",
+    "static/media/lyrata.2e915120.jpeg": "/la-maison-jungle/static/media/lyrata.2e915120.jpeg",
+    "static/media/mint.b83a3d2e.jpeg": "/la-maison-jungle/static/media/mint.b83a3d2e.jpeg",
+    "static/media/monstera.6257bc6b.jpeg": "/la-maison-jungle/static/media/monstera.6257bc6b.jpeg",
+    "static/media/olivier.b2908b40.jpeg": "/la-maison-jungle/static/media/olivier.b2908b40.jpeg",
+    "static/media/pothos.d72dc0ac.jpeg": "/la-maison-jungle/static/media/pothos.d72dc0ac.jpeg",
+    "static/media/succulent.f4329849.jpeg": "/la-maison-jungle/static/media/succulent.f4329849.jpeg",
+    "static/media/sun.d683fdc9.svg": "/la-maison-jungle/static/media/sun.d683fdc9.svg",
+    "static/media/water.77d8b374.svg": "/la-maison-jungle/static/media/water.77d8b374.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbfaa28a.js",
+    "static/js/2.da38659e.chunk.js",
+    "static/css/main.5bafde77.chunk.css",
+    "static/js/main.124714c4.chunk.js"
+  ]
+}
